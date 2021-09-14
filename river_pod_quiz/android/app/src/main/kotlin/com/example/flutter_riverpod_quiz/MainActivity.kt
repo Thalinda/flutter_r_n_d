@@ -1,4 +1,4 @@
-package com.example.river_pod_quiz
+package com.example.flutter_riverpod_quiz
 
 import io.flutter.embedding.android.FlutterActivity
 
